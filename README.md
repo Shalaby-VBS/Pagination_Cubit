@@ -83,7 +83,7 @@ final class PostsLoaded extends PostsState {
 
 ## 📱 UI
 
-
+https://github.com/Shalaby-VBS/Pagination_Cubit/assets/149938388/1911cc99-417b-4d23-bf99-70f5b66157d4
 
 <br/>
 
